@@ -1,0 +1,19 @@
+{
+  "heading": "Homework_writing",
+  "topics": [
+    {
+      "heading": "Writing Activity",
+      "questions": [
+       
+        {
+          "questionNo": 1,
+          "type":"long",
+          "question": "<b>Write a poetry analysis response, analysing the poem “The Poison Tree” by William Blake</b><br><b>HINTS:</b><br><b>1. Subject:</b><br>Anger that is concealed rather than spoken, and what it becomes.<br>(The first stanza sets out the whole argument in four lines. Everything after it demonstrates the second half of that opening contrast.)<br><b>2. Most prominent poetic devices:</b><ul><li><b>Extended metaphor</b> — the wrath is treated as a plant throughout: watered, sunned, grown, and eventually bearing fruit. The metaphor is never explained and never dropped.</li><li><b>Contrast</b> — the friend takes two lines, and the wrath ends; the foe takes fourteen, and the wrath kills. The imbalance is itself the argument.</li><li><b>Symbolism </b>— the apple in a garden, taken in secret at night, carries an association the reader recognises before Blake does anything with it.</li></ul><b>3. Theme(s):</b><br>Suppressed anger does not fade; it is actively cultivated, and concealment is the work that feeds it.<br>Word Limit: 200-250",
+          "text_area": "",
+          "answer": [""]
+        }
+         
+      ]
+    }
+  ]
+}
